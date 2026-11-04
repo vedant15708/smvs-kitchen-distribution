@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.1.0",
-    "latest_version":  "1.0.1",
+    "version":  "1.0.2.0",
+    "latest_version":  "1.0.2",
     "download_url":  "https://github.com/vedant15708/smvs-kitchen-distribution/releases/latest/download/SMVS_KitchenManagementSyatem.msi",
-    "release_notes":  "Production release v1.0.1 with cloud API integration, auto-upgrades, and performance improvements.",
+    "release_notes":  "Production release v1.0.2: Resolved Measurement Report resource loading issue (Excel_Image). Automatic upgrade supported.",
     "mandatory_update":  false,
-    "sha256":  "bde5bb447040177e1bf048c676631608f9c918f915160c4feef43d5eda8bf77b"
+    "sha256":  "675cc99e7f7701546d1e4f0d4b466bd1e1bb93ee25d86b7f6ac469037e815322"
 }
