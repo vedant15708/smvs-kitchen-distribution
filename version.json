@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.2.0",
-    "latest_version":  "1.0.2",
+    "version":  "1.0.3.0",
+    "latest_version":  "1.0.3",
     "download_url":  "https://github.com/vedant15708/smvs-kitchen-distribution/releases/latest/download/SMVS_KitchenManagementSyatem.msi",
-    "release_notes":  "Production release v1.0.2: Resolved Measurement Report resource loading issue (Excel_Image). Automatic upgrade supported.",
+    "release_notes":  "Production release v1.0.3: Restored original Category module (raw material classification) and Recipe Report two-grid selection workflow.",
     "mandatory_update":  false,
-    "sha256":  "675cc99e7f7701546d1e4f0d4b466bd1e1bb93ee25d86b7f6ac469037e815322"
+    "sha256":  "e1abd6999c0cbca75a84c603ca2aebd1a65baa04823734f42f44c1bcb8322905"
 }
